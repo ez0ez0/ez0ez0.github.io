@@ -4,4 +4,8 @@ title: "hello world"
 ---
 
 # hello world
+
+![ez0ez0]({{site.url}}/images/2024-08-23-helloworld/helloworld(1).jpg)
+
 화이링~ ( ♪˶´・‎ᴗ・ `˶ ♪)
+
